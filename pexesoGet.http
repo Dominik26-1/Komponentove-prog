@@ -1,0 +1,15 @@
+GET http://localhost:8080/api/comment/pexeso
+Accept: application/json
+
+####
+GET http://localhost:8080/api/score/pexeso
+Accept: application/json
+
+####
+//Average rating
+GET http://localhost:8080/api/rating/pexeso
+Accept: application/json
+
+###
+GET http://localhost:8080/api/rating/pexeso/novyHrac
+Accept: application/json

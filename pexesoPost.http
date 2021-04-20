@@ -1,0 +1,38 @@
+POST http://localhost:8080/api/comment
+Content-Type: application/json
+
+
+{
+  "game": "pexeso",
+  "player": "novyHrac",
+  "comment": "comentar na tuto hru cez rest",
+  "date": "2021-04-12T12:47:06.208+00:00"
+
+
+}
+
+###
+POST http://localhost:8080/api/score
+Content-Type: application/json
+
+{
+  "game": "pexeso",
+  "player": "dalsiHrac",
+  "points": 300,
+  "date": "2021-04-12T07:47:06.208+00:00"
+
+
+}
+####
+POST http://localhost:8080/api/rating
+Content-Type: application/json
+
+{
+  "game": "pexeso",
+  "player": "novyHrac",
+  "rating": 7,
+  "date": "2021-04-12T07:47:06.208+00:00"
+
+
+}
+

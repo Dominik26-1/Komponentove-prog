@@ -1,1 +1,0 @@
-# Komponentov-prog
