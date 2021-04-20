@@ -1,1 +1,1 @@
-# Komponentov-prog
+# Komponentove-programovanie
